@@ -1,4 +1,4 @@
-# Implementation of the paper "Influence-based Approaches for Tumor Classification in Noisy Brain MRI with Deep Learning and Vision-Language Models"
+# Implementation of the paper "Influence-based Approaches for Tumor Classification in Noisy Brain MRI with Deep Learning and Vision-Language Models" and "Robust influence-based training methods for noisy brain mri"
 
 ## Download Brain Tumor Detection dataset
 Please go this site [Brain Tumor Dataset](https://tinyurl.com/isr-isp-iicl) to download the data and put it in the folder named brain_tumor_dataset.
